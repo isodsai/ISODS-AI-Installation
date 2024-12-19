@@ -19,7 +19,7 @@ By downloading and installing our software, you agree to our terms of service an
 
 Our software is provided "as is" without warranty of any kind.
 
-The AI chatbot is an automated system powered by OpenAI. We cannot guarantee the accuracy, completeness, or up-to-date nature of the information provided. Users of the AI chatbot bear sole responsibility for their interactions and reliance on the information provided. We prioritize the privacy and security of our users' information, but be aware that chatbot conversations may be reviewed by our content team to improve results. Third party services used by the AI chatbot may retain logs of these conversations. Do not share any sensitive or personal information in your conversations. By using our AI chatbot, you indicate your acceptance and understanding of these terms. If you do not agree with any part of this disclaimer, we recommend refraining from using the chatbot.
+The AI chatbot is an automated system powered by Artificial Intelligence. We cannot guarantee the accuracy, completeness, or up-to-date nature of the information provided. Users of the AI chatbot bear sole responsibility for their interactions and reliance on the information provided. We prioritize the privacy and security of our users' information, but be aware that chatbot conversations may be reviewed by our content team to improve results. Third party services used by the AI chatbot may retain logs of these conversations. Do not share any sensitive or personal information in your conversations. By using our AI chatbot, you indicate your acceptance and understanding of these terms. If you do not agree with any part of this disclaimer, we recommend refraining from using the chatbot.
 
 ## Download Link
 [Insert download link]
